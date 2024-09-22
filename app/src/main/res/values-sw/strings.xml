@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Chaguo</string>
+    <string name="OperationsHeader">Mbinu za kuhesabu</string>
+    <string name="OperationsAddition">nyongeza</string>
+    <string name="OperationsSubtraction">kutoa</string>
+    <string name="OperationsMultiplication">kuzidisha</string>
+    <string name="OperationsDivision">mgawanyiko</string>
+    <string name="GameVariant">Lahaja ya mchezo</string>
+    <string name="GameVariantStandart">kutatua kazi</string>
+    <string name="GameVariantMixer">kichanganyaji</string>
+    <string name="GameVariantNumbers">Tafuta nambari</string>
+    <string name="GameVariantOperators">Tafuta waendeshaji</string>
+    <string name="PreferencesHeader">Mipangilio</string>
+    <string name="PreferencesMarker">Uga wa alama</string>
+    <string name="PreferencesJoker">Mcheshi</string>
+    <string name="PreferencesSound">Athari za sauti</string>
+    <string name="PreferencesCountdown">Saa ya kusimama</string>
+    <string name="SolvedCurrent">kutatuliwa</string>
+    <string name="SolvedTotal">kwa ujumla</string>
+    <string name="StatisticsHeader">takwimu</string>
+    <string name="SolvedToday">leo</string>
+    <string name="SolvedDays10">kwa siku 10</string>
+    <string name="SolvedDays30">kwa siku 30</string>
+    <string name="StartNewGame">mchezo mpya</string>
+    <string name="Congratulation">Hongera sana</string>
+    <string name="Solution">Azimio</string>
+    <string name="LanguageCode">sw</string>
+    <string name="ShareLink">Pitia pamoja</string>
+    <string name="Language">Lugha</string>
+    <string name="CarryOver">Usafirishaji kumi</string>
+</resources>

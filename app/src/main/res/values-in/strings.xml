@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Pilihan</string>
+    <string name="OperationsHeader">Operasi aritmatika</string>
+    <string name="OperationsAddition">tambahan</string>
+    <string name="OperationsSubtraction">pengurangan</string>
+    <string name="OperationsMultiplication">perkalian</string>
+    <string name="OperationsDivision">divisi</string>
+    <string name="GameVariant">Varian permainan</string>
+    <string name="GameVariantStandart">Menyelesaikan tugas</string>
+    <string name="GameVariantMixer">Pengaduk</string>
+    <string name="GameVariantNumbers">Temukan angka</string>
+    <string name="GameVariantOperators">Temukan operator</string>
+    <string name="PreferencesHeader">Pengaturan</string>
+    <string name="PreferencesMarker">Bidang tanda</string>
+    <string name="PreferencesJoker">Pelawak</string>
+    <string name="PreferencesSound">Efek audio</string>
+    <string name="PreferencesCountdown">Stopwatch</string>
+    <string name="SolvedCurrent">terselesaikan</string>
+    <string name="SolvedTotal">secara keseluruhan</string>
+    <string name="StatisticsHeader">statistik</string>
+    <string name="SolvedToday">Hari ini</string>
+    <string name="SolvedDays10">selama 10 hari</string>
+    <string name="SolvedDays30">selama 30 hari</string>
+    <string name="StartNewGame">mulai permainan baru</string>
+    <string name="Congratulation">Selamat</string>
+    <string name="Solution">Resolusi</string>
+    <string name="LanguageCode">in</string>
+    <string name="ShareLink">Meneruskan</string>
+    <string name="Language">Bahasa</string>
+    <string name="CarryOver">-</string>
+</resources>

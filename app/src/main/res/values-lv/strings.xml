@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Opcijas</string>
+    <string name="OperationsHeader">Darbības</string>
+    <string name="OperationsAddition">Papildinājums</string>
+    <string name="OperationsSubtraction">Atņemšana</string>
+    <string name="OperationsMultiplication">Reizināšana</string>
+    <string name="OperationsDivision">Dalīšana</string>
+    <string name="GameVariant">Spēles variants</string>
+    <string name="GameVariantStandart">Uzdevumu risināšana</string>
+    <string name="GameVariantMixer">Blenderis</string>
+    <string name="GameVariantNumbers">Skaitļu meklēšana</string>
+    <string name="GameVariantOperators">Atrast operatorus</string>
+    <string name="PreferencesHeader">Lestatījumus</string>
+    <string name="PreferencesMarker">Lauka marķieri</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Audio efekti</string>
+    <string name="PreferencesCountdown">Hronometrs</string>
+    <string name="SolvedCurrent">Atslēgt</string>
+    <string name="SolvedTotal">Kopējā</string>
+    <string name="StatisticsHeader">Statistika</string>
+    <string name="SolvedToday">Šodien</string>
+    <string name="SolvedDays10">kopš 10 dienām</string>
+    <string name="SolvedDays30">kopš 30 dienām</string>
+    <string name="StartNewGame">jauna spēle</string>
+    <string name="Congratulation">Apsveicam</string>
+    <string name="Solution">Izšķirtspēju</string>
+    <string name="LanguageCode">lv</string>
+    <string name="ShareLink">Leteikt</string>
+    <string name="Language">Valoda</string>
+    <string name="CarryOver">-</string>
+</resources>

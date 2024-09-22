@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Nustatymai</string>
+    <string name="OperationsHeader">Aritmetiniai veiksmai</string>
+    <string name="OperationsAddition">papildymas</string>
+    <string name="OperationsSubtraction">atimti</string>
+    <string name="OperationsMultiplication">daugyba</string>
+    <string name="OperationsDivision">padalinys</string>
+    <string name="GameVariant">Žaidimo variantas</string>
+    <string name="GameVariantStandart">Spręsti užduotis</string>
+    <string name="GameVariantMixer">Maišytuvas</string>
+    <string name="GameVariantNumbers">Rasti skaičius</string>
+    <string name="GameVariantOperators">Rasti operatorius</string>
+    <string name="PreferencesHeader">Galimybės</string>
+    <string name="PreferencesMarker">Ženklų laukas</string>
+    <string name="PreferencesJoker">Juokdarys</string>
+    <string name="PreferencesSound">Garso efektai</string>
+    <string name="PreferencesCountdown">Chronometras</string>
+    <string name="SolvedCurrent">išspręsta</string>
+    <string name="SolvedTotal">iš viso</string>
+    <string name="StatisticsHeader">Statistika</string>
+    <string name="SolvedToday">šiandien</string>
+    <string name="SolvedDays10">- 10 dienų</string>
+    <string name="SolvedDays30">- 30 dienų</string>
+    <string name="StartNewGame">Naujas žaidimas</string>
+    <string name="Congratulation">Sveikinu</string>
+    <string name="Solution">Rezoliucija</string>
+    <string name="LanguageCode">lt</string>
+    <string name="ShareLink">Praeiti kartu</string>
+    <string name="Language">Kalba</string>
+    <string name="CarryOver">-</string>
+</resources>

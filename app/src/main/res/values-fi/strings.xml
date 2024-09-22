@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Vaihtoehdot</string>
+    <string name="OperationsHeader">Aritmeettiset operaatiot</string>
+    <string name="OperationsAddition">lisäys</string>
+    <string name="OperationsSubtraction">vähennyslasku</string>
+    <string name="OperationsMultiplication">kertolasku</string>
+    <string name="OperationsDivision">jako</string>
+    <string name="GameVariant">Pelin variantti</string>
+    <string name="GameVariantStandart">ratkaista tehtäviä</string>
+    <string name="GameVariantMixer">mikseri</string>
+    <string name="GameVariantNumbers">Etsi numeroita</string>
+    <string name="GameVariantOperators">Etsi operaattoreita</string>
+    <string name="PreferencesHeader">asetukset</string>
+    <string name="PreferencesMarker">Merkintäkenttä</string>
+    <string name="PreferencesJoker">jokeri</string>
+    <string name="PreferencesSound">Äänitehosteet</string>
+    <string name="PreferencesCountdown">sekuntikello</string>
+    <string name="SolvedCurrent">ratkaistu</string>
+    <string name="SolvedTotal">yhteensä</string>
+    <string name="StatisticsHeader">tilastot</string>
+    <string name="SolvedToday">tänään</string>
+    <string name="SolvedDays10">- 10 päivän ajan</string>
+    <string name="SolvedDays30">- 30 päivän ajan</string>
+    <string name="StartNewGame">aloittaa uusi peli</string>
+    <string name="Congratulation">Onnittelut</string>
+    <string name="Solution">Ratkaisu</string>
+    <string name="LanguageCode">fi</string>
+    <string name="ShareLink">Kulje eteenpäin</string>
+    <string name="Language">Kieli</string>
+    <string name="CarryOver">-</string>
+</resources>

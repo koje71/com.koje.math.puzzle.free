@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">إعدادات</string>
+    <string name="OperationsHeader">عمليات حسابية</string>
+    <string name="OperationsAddition">إضافة</string>
+    <string name="OperationsSubtraction">الطرح</string>
+    <string name="OperationsMultiplication">عمليه الضرب</string>
+    <string name="OperationsDivision">قسم</string>
+    <string name="GameVariant">لعبة البديل</string>
+    <string name="GameVariantStandart">حل المهام</string>
+    <string name="GameVariantMixer">خلاط</string>
+    <string name="GameVariantNumbers">العثور على أرقام</string>
+    <string name="GameVariantOperators">البحث عن المشغلين</string>
+    <string name="PreferencesHeader">خيارات</string>
+    <string name="PreferencesMarker">حقل العلامات</string>
+    <string name="PreferencesJoker">مهرج</string>
+    <string name="PreferencesSound">المؤثرات الصوتية</string>
+    <string name="PreferencesCountdown">ساعة التوقيف</string>
+    <string name="SolvedCurrent">تم حلها</string>
+    <string name="SolvedTotal">في المجموع</string>
+    <string name="StatisticsHeader">إحصائيات</string>
+    <string name="SolvedToday">اليوم</string>
+    <string name="SolvedDays10">لمدة 10 أيام</string>
+    <string name="SolvedDays30">لمدة 30 أيام</string>
+    <string name="StartNewGame">ابدأ لعبة جديدة</string>
+    <string name="Congratulation">تهانينا</string>
+    <string name="Solution">حل</string>
+    <string name="LanguageCode">ar</string>
+    <string name="ShareLink">مرر على طول</string>
+    <string name="Language">لغة</string>
+    <string name="CarryOver">-</string>
+</resources>

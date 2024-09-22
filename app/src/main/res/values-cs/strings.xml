@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Možnosti</string>
+    <string name="OperationsHeader">Operace</string>
+    <string name="OperationsAddition">přidání</string>
+    <string name="OperationsSubtraction">odčítání</string>
+    <string name="OperationsMultiplication">násobení</string>
+    <string name="OperationsDivision">divize</string>
+    <string name="GameVariant">Herní varianta</string>
+    <string name="GameVariantStandart">řešit úkoly</string>
+    <string name="GameVariantMixer">Smíšený</string>
+    <string name="GameVariantNumbers">Přiřaďte čísla</string>
+    <string name="GameVariantOperators">Přiřaďte operátory</string>
+    <string name="PreferencesHeader">Nastavení</string>
+    <string name="PreferencesMarker">Pole značek</string>
+    <string name="PreferencesJoker">žolík</string>
+    <string name="PreferencesSound">Zvukové efekty</string>
+    <string name="PreferencesCountdown">Stopky (min)</string>
+    <string name="SolvedCurrent">vyřešeno</string>
+    <string name="SolvedTotal">celkem</string>
+    <string name="StatisticsHeader">statistika</string>
+    <string name="SolvedToday">dnes</string>
+    <string name="SolvedDays10">po dobu 10 dnů</string>
+    <string name="SolvedDays30">po dobu 30 dnů</string>
+    <string name="StartNewGame">začít novou hru</string>
+    <string name="Congratulation">Gratulujeme</string>
+    <string name="Solution">Řešení</string>
+    <string name="LanguageCode">cs</string>
+    <string name="ShareLink">Rozdělit</string>
+    <string name="Language">Jazyk</string>
+    <string name="CarryOver">Deset přenosů</string>
+</resources>

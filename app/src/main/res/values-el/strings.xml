@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Επιλογές</string>
+    <string name="OperationsHeader">Μέθοδοι υπολογισμού</string>
+    <string name="OperationsAddition">πρόσθεση</string>
+    <string name="OperationsSubtraction">αφαίρεση</string>
+    <string name="OperationsMultiplication">πολλαπλασιασμός</string>
+    <string name="OperationsDivision">διαίρεση</string>
+    <string name="GameVariant">Παραλλαγή παιχνιδιού</string>
+    <string name="GameVariantStandart">επίλυση εργασιών</string>
+    <string name="GameVariantMixer">αναμικτής</string>
+    <string name="GameVariantNumbers">Βρείτε αριθμούς</string>
+    <string name="GameVariantOperators">Βρείτε τελεστές</string>
+    <string name="PreferencesHeader">Ρυθμίσεις</string>
+    <string name="PreferencesMarker">Πεδίο σημάτων</string>
+    <string name="PreferencesJoker">τζόκερ</string>
+    <string name="PreferencesSound">ΗΧΗΤΙΚΑ εφε</string>
+    <string name="PreferencesCountdown">χρονόμετρο</string>
+    <string name="SolvedCurrent">λυθεί</string>
+    <string name="SolvedTotal">συνολικά</string>
+    <string name="StatisticsHeader">στατιστική</string>
+    <string name="SolvedToday">σήμερα</string>
+    <string name="SolvedDays10">για 10 ημέρες</string>
+    <string name="SolvedDays30">για 30 ημέρες</string>
+    <string name="StartNewGame">νέο παιχνίδι</string>
+    <string name="Congratulation">Συγχαρητήρια</string>
+    <string name="Solution">ανάλυση</string>
+    <string name="LanguageCode">el</string>
+    <string name="ShareLink">Διανέμω</string>
+    <string name="Language">Γλώσσα</string>
+    <string name="CarryOver">Δέκα μεταφορά</string>
+</resources>

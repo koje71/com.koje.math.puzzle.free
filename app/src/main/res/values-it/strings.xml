@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Opzioni</string>
+    <string name="OperationsHeader">Operazioni</string>
+    <string name="OperationsAddition">Addizione</string>
+    <string name="OperationsSubtraction">Sottrazione</string>
+    <string name="OperationsMultiplication">Moltiplicazione</string>
+    <string name="OperationsDivision">Divisione</string>
+    <string name="GameVariant">Variante del gioco</string>
+    <string name="GameVariantStandart">Risoluzione dei compiti</string>
+    <string name="GameVariantMixer">Misto</string>
+    <string name="GameVariantNumbers">Ricerca dei numeri</string>
+    <string name="GameVariantOperators">Trova operatori</string>
+    <string name="PreferencesHeader">Impostazioni</string>
+    <string name="PreferencesMarker">Marcatori di campo</string>
+    <string name="PreferencesJoker">Burlone</string>
+    <string name="PreferencesSound">Effetti audio</string>
+    <string name="PreferencesCountdown">Cronometro (min)</string>
+    <string name="SolvedCurrent">disinserito</string>
+    <string name="SolvedTotal">tutto</string>
+    <string name="StatisticsHeader">Statistica</string>
+    <string name="SolvedToday">Oggi</string>
+    <string name="SolvedDays10">per 10 giorni</string>
+    <string name="SolvedDays30">per 30 giorni</string>
+    <string name="StartNewGame">Nuovo gioco</string>
+    <string name="Congratulation">Felicitazioni</string>
+    <string name="Solution">Soluzione</string>
+    <string name="LanguageCode">it</string>
+    <string name="ShareLink">Distribuire</string>
+    <string name="Language">Lingua</string>
+    <string name="CarryOver">Dieci riporto</string>
+</resources>

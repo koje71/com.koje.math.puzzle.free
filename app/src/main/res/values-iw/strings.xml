@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">אפשרויות</string>
+    <string name="OperationsHeader">פעולות אריתמטיות</string>
+    <string name="OperationsAddition">חיבור</string>
+    <string name="OperationsSubtraction">חִסוּר</string>
+    <string name="OperationsMultiplication">כֶּפֶל</string>
+    <string name="OperationsDivision">חֲלוּקָה</string>
+    <string name="GameVariant">וריאנט משחק</string>
+    <string name="GameVariantStandart">לפתור משימות</string>
+    <string name="GameVariantMixer">מִיקסֵר</string>
+    <string name="GameVariantNumbers">מצא מספרים</string>
+    <string name="GameVariantOperators">מצא אופרטורים</string>
+    <string name="PreferencesHeader">הגדרות</string>
+    <string name="PreferencesMarker">שדה סימנים</string>
+    <string name="PreferencesJoker">לֵץ</string>
+    <string name="PreferencesSound">אפקטי אודיו</string>
+    <string name="PreferencesCountdown">סטוֹפֶּר</string>
+    <string name="SolvedCurrent">נפתרה</string>
+    <string name="SolvedTotal">בסך הכל</string>
+    <string name="StatisticsHeader">סטָטִיסטִיקָה</string>
+    <string name="SolvedToday">היום</string>
+    <string name="SolvedDays10">במשך 10 ימים</string>
+    <string name="SolvedDays30">במשך 30 ימים</string>
+    <string name="StartNewGame">התחל משחק חדש</string>
+    <string name="Congratulation">מזל טוב</string>
+    <string name="Solution">פתרון הבעיה</string>
+    <string name="LanguageCode">iw</string>
+    <string name="ShareLink">להעביר הלאה</string>
+    <string name="Language">שפה</string>
+    <string name="CarryOver">-</string>
+</resources>

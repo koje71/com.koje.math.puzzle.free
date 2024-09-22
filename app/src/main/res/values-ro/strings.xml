@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Opțiuni</string>
+    <string name="OperationsHeader">Operatii aritmetice</string>
+    <string name="OperationsAddition">plus</string>
+    <string name="OperationsSubtraction">scădere</string>
+    <string name="OperationsMultiplication">multiplicare</string>
+    <string name="OperationsDivision">divizia</string>
+    <string name="GameVariant">Varianta de joc</string>
+    <string name="GameVariantStandart">Rezolva sarcini</string>
+    <string name="GameVariantMixer">Mixer</string>
+    <string name="GameVariantNumbers">Găsiți numere</string>
+    <string name="GameVariantOperators">Găsiți operatori</string>
+    <string name="PreferencesHeader">Setări</string>
+    <string name="PreferencesMarker">Câmp de marcaje</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Efecte audio</string>
+    <string name="PreferencesCountdown">Cronometru</string>
+    <string name="SolvedCurrent">rezolvat</string>
+    <string name="SolvedTotal">in total</string>
+    <string name="StatisticsHeader">statistici</string>
+    <string name="SolvedToday">Astăzi</string>
+    <string name="SolvedDays10">timp de 10 zile</string>
+    <string name="SolvedDays30">timp de 30 zile</string>
+    <string name="StartNewGame">joc nou</string>
+    <string name="Congratulation">Felicitări</string>
+    <string name="Solution">Rezoluţie</string>
+    <string name="LanguageCode">ro</string>
+    <string name="ShareLink">Da mai departe</string>
+    <string name="Language">Limba</string>
+    <string name="CarryOver">-</string>
+</resources>

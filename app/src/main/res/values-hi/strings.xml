@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">गणित पहेली</string>
+    <string name="SettingsTitle">विकल्प</string>
+    <string name="OperationsHeader">गणना के प्रकार</string>
+    <string name="OperationsAddition">योग</string>
+    <string name="OperationsSubtraction">व्यवकलन</string>
+    <string name="OperationsMultiplication">गुणा</string>
+    <string name="OperationsDivision">बँटवारा</string>
+    <string name="GameVariant">खेल संस्करण</string>
+    <string name="GameVariantStandart">कार्यों को हल करना</string>
+    <string name="GameVariantMixer">मिलाना</string>
+    <string name="GameVariantNumbers">संख्याओं का पता लगाना</string>
+    <string name="GameVariantOperators">ऑपरेटरों का पता लगाएं</string>
+    <string name="PreferencesHeader">सेटिंग्स</string>
+    <string name="PreferencesMarker">फ़ील्ड मार्कर</string>
+    <string name="PreferencesJoker">जोकर</string>
+    <string name="PreferencesSound">ऑडियो प्रभाव</string>
+    <string name="PreferencesCountdown">विराम घड़ी</string>
+    <string name="SolvedCurrent">पीछे हट गया</string>
+    <string name="SolvedTotal">कुल मिलाकर</string>
+    <string name="StatisticsHeader">सांख्यिकी</string>
+    <string name="SolvedToday">आज</string>
+    <string name="SolvedDays10">- 10 दिनों से</string>
+    <string name="SolvedDays30">- 30 दिनों से</string>
+    <string name="StartNewGame">नया खेल</string>
+    <string name="Congratulation">बधाइयाँ</string>
+    <string name="Solution">घोल</string>
+    <string name="LanguageCode">hi</string>
+    <string name="ShareLink">बांटो</string>
+    <string name="Language">भाषा</string>
+    <string name="CarryOver">दस कैरीओवर</string>
+</resources>

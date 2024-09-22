@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">数学拼图</string>
+    <string name="SettingsTitle">选项</string>
+    <string name="OperationsHeader">操作</string>
+    <string name="OperationsAddition">加法</string>
+    <string name="OperationsSubtraction">减法</string>
+    <string name="OperationsMultiplication">乘法</string>
+    <string name="OperationsDivision">划分</string>
+    <string name="GameVariant">游戏变体</string>
+    <string name="GameVariantStandart">解决任务</string>
+    <string name="GameVariantMixer">混合</string>
+    <string name="GameVariantNumbers">查找数字</string>
+    <string name="GameVariantOperators">查找运算符</string>
+    <string name="PreferencesHeader">设置</string>
+    <string name="PreferencesMarker">字段标记</string>
+    <string name="PreferencesJoker">小丑</string>
+    <string name="PreferencesSound">音频效果</string>
+    <string name="PreferencesCountdown">秒表（分钟）</string>
+    <string name="SolvedCurrent">脱离</string>
+    <string name="SolvedTotal">完全</string>
+    <string name="StatisticsHeader">统计学</string>
+    <string name="SolvedToday">今天</string>
+    <string name="SolvedDays10">- 10天</string>
+    <string name="SolvedDays30">- 30天</string>
+    <string name="StartNewGame">新游戏</string>
+    <string name="Congratulation">祝贺</string>
+    <string name="Solution">溶液</string>
+    <string name="LanguageCode">zh</string>
+    <string name="ShareLink">分裂</string>
+    <string name="Language">語言</string>
+    <string name="CarryOver">十結轉</string>
+</resources>

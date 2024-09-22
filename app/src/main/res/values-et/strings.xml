@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Valikud</string>
+    <string name="OperationsHeader">Toimingud</string>
+    <string name="OperationsAddition">Liitmine</string>
+    <string name="OperationsSubtraction">Lahutamine</string>
+    <string name="OperationsMultiplication">Korrutamine</string>
+    <string name="OperationsDivision">Rajoon</string>
+    <string name="GameVariant">Mängu variant</string>
+    <string name="GameVariantStandart">Ülesannete lahendamine</string>
+    <string name="GameVariantMixer">Segisti</string>
+    <string name="GameVariantNumbers">Otsige numbreid</string>
+    <string name="GameVariantOperators">Leia tehtemärgid</string>
+    <string name="PreferencesHeader">Seaded</string>
+    <string name="PreferencesMarker">Välja markerid</string>
+    <string name="PreferencesJoker">Jokker</string>
+    <string name="PreferencesSound">Heliefektid</string>
+    <string name="PreferencesCountdown">Stopper</string>
+    <string name="SolvedCurrent">ei ole kaasatud</string>
+    <string name="SolvedTotal">Kokku</string>
+    <string name="StatisticsHeader">Statistika</string>
+    <string name="SolvedToday">Täna</string>
+    <string name="SolvedDays10">alates 10 päevast</string>
+    <string name="SolvedDays30">alates 30 päevast</string>
+    <string name="StartNewGame">uus mäng</string>
+    <string name="Congratulation">Palju õnne</string>
+    <string name="Solution">lahus</string>
+    <string name="LanguageCode">et</string>
+    <string name="ShareLink">Levitada</string>
+    <string name="Language">Keel</string>
+    <string name="CarryOver">-</string>
+</resources>

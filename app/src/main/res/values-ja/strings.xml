@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">オプション</string>
+    <string name="OperationsHeader">オペレーションズ</string>
+    <string name="OperationsAddition">足し算</string>
+    <string name="OperationsSubtraction">引き算</string>
+    <string name="OperationsMultiplication">掛け算</string>
+    <string name="OperationsDivision">除法</string>
+    <string name="GameVariant">ゲームバリアント</string>
+    <string name="GameVariantStandart">タスクの解決</string>
+    <string name="GameVariantMixer">糝</string>
+    <string name="GameVariantNumbers">数字の検索</string>
+    <string name="GameVariantOperators">演算子の検索</string>
+    <string name="PreferencesHeader">設定</string>
+    <string name="PreferencesMarker">フィールド マーカー</string>
+    <string name="PreferencesJoker">ジョーカー</string>
+    <string name="PreferencesSound">オーディオエフェクト</string>
+    <string name="PreferencesCountdown">ストップウォッチ</string>
+    <string name="SolvedCurrent">離脱</string>
+    <string name="SolvedTotal">悉く</string>
+    <string name="StatisticsHeader">統計学</string>
+    <string name="SolvedToday">今日</string>
+    <string name="SolvedDays10">- 10日間</string>
+    <string name="SolvedDays30">- 30日間</string>
+    <string name="StartNewGame">新しいゲームを開始する</string>
+    <string name="Congratulation">祝賀</string>
+    <string name="Solution">解決</string>
+    <string name="LanguageCode">ja</string>
+    <string name="ShareLink">通る</string>
+    <string name="Language">言語</string>
+    <string name="CarryOver">10回のキャリーオーバー</string>
+</resources>

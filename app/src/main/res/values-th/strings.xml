@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">ตัวเลือก</string>
+    <string name="OperationsHeader">การดําเนินงาน</string>
+    <string name="OperationsAddition">การบวก</string>
+    <string name="OperationsSubtraction">การลบ</string>
+    <string name="OperationsMultiplication">การคูณ</string>
+    <string name="OperationsDivision">แผนก</string>
+    <string name="GameVariant">ตัวแปรเกม</string>
+    <string name="GameVariantStandart">แก้ปัญหางาน</string>
+    <string name="GameVariantMixer">เครื่องปั่น</string>
+    <string name="GameVariantNumbers">ค้นหาหมายเลข</string>
+    <string name="GameVariantOperators">ค้นหาโอเปอเรเตอร์</string>
+    <string name="PreferencesHeader">การตั้งค่า</string>
+    <string name="PreferencesMarker">เครื่องหมายฟิลด์</string>
+    <string name="PreferencesJoker">ตัวตลก</string>
+    <string name="PreferencesSound">เสียง</string>
+    <string name="PreferencesCountdown">นาฬิกาจับเวลา</string>
+    <string name="SolvedCurrent">ปลดแอก</string>
+    <string name="SolvedTotal">ทั้งหมด</string>
+    <string name="StatisticsHeader">สถิติ</string>
+    <string name="SolvedToday">วันนี้</string>
+    <string name="SolvedDays10">ตั้งแต่ 10 วัน</string>
+    <string name="SolvedDays30">ตั้งแต่ 30 วัน</string>
+    <string name="StartNewGame">เกมใหม่</string>
+    <string name="Congratulation">ขอแสดงความยินดี</string>
+    <string name="Solution">มติ</string>
+    <string name="LanguageCode">th</string>
+    <string name="ShareLink">ผ่าน</string>
+    <string name="Language">ภาษา</string>
+    <string name="CarryOver">-</string>
+</resources>

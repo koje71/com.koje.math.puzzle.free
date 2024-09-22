@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Опции</string>
+    <string name="OperationsHeader">Операции</string>
+    <string name="OperationsAddition">Събиране</string>
+    <string name="OperationsSubtraction">Изваждане</string>
+    <string name="OperationsMultiplication">Умножение</string>
+    <string name="OperationsDivision">Делене</string>
+    <string name="GameVariant">Вариант на играта</string>
+    <string name="GameVariantStandart">Решаване на задачи</string>
+    <string name="GameVariantMixer">Смесен</string>
+    <string name="GameVariantNumbers">Намиране на числа</string>
+    <string name="GameVariantOperators">Намиране на оператори</string>
+    <string name="PreferencesHeader">Настройки</string>
+    <string name="PreferencesMarker">Маркери на полета</string>
+    <string name="PreferencesJoker">Жокер</string>
+    <string name="PreferencesSound">Аудио ефекти</string>
+    <string name="PreferencesCountdown">Хронометър (мин)</string>
+    <string name="SolvedCurrent">Изключено</string>
+    <string name="SolvedTotal">Напълно</string>
+    <string name="StatisticsHeader">Статистика</string>
+    <string name="SolvedToday">Днес</string>
+    <string name="SolvedDays10">за 10 дни</string>
+    <string name="SolvedDays30">за 30 дни</string>
+    <string name="StartNewGame">Започнете нова игра</string>
+    <string name="Congratulation">Поздравление</string>
+    <string name="Solution">Решение</string>
+    <string name="LanguageCode">bg</string>
+    <string name="ShareLink">Деля</string>
+    <string name="Language">език</string>
+    <string name="CarryOver">Десет пренасяне</string>
+</resources>

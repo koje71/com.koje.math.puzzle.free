@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Параметри</string>
+    <string name="OperationsHeader">Операцій</string>
+    <string name="OperationsAddition">Додаток</string>
+    <string name="OperationsSubtraction">Віднімання</string>
+    <string name="OperationsMultiplication">Множення</string>
+    <string name="OperationsDivision">Дивізія</string>
+    <string name="GameVariant">Варіант гри</string>
+    <string name="GameVariantStandart">Рішення поставлених завдань</string>
+    <string name="GameVariantMixer">Мішаний</string>
+    <string name="GameVariantNumbers">Пошук чисел</string>
+    <string name="GameVariantOperators">Знайти операторів</string>
+    <string name="PreferencesHeader">Параметри</string>
+    <string name="PreferencesMarker">Маркери полів</string>
+    <string name="PreferencesJoker">Джокер</string>
+    <string name="PreferencesSound">Аудіоефекти</string>
+    <string name="PreferencesCountdown">Секундомір (хв)</string>
+    <string name="SolvedCurrent">відключено</string>
+    <string name="SolvedTotal">Взагалі</string>
+    <string name="StatisticsHeader">Статистика</string>
+    <string name="SolvedToday">Сьогодні</string>
+    <string name="SolvedDays10">з 10 днів</string>
+    <string name="SolvedDays30">з 30 днів</string>
+    <string name="StartNewGame">Нова гра</string>
+    <string name="Congratulation">Вітаємо</string>
+    <string name="Solution">Рішення</string>
+    <string name="LanguageCode">uk</string>
+    <string name="ShareLink">Поширювати</string>
+    <string name="Language">Мова</string>
+    <string name="CarryOver">Десять перенесення</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Opções</string>
+    <string name="OperationsHeader">Operações</string>
+    <string name="OperationsAddition">Adição</string>
+    <string name="OperationsSubtraction">Subtração</string>
+    <string name="OperationsMultiplication">Multiplicação</string>
+    <string name="OperationsDivision">Divisão</string>
+    <string name="GameVariant">Variante do jogo</string>
+    <string name="GameVariantStandart">Resolução de tarefas</string>
+    <string name="GameVariantMixer">Misto</string>
+    <string name="GameVariantNumbers">Encontrar números</string>
+    <string name="GameVariantOperators">Encontrar Operadores</string>
+    <string name="PreferencesHeader">Configurações</string>
+    <string name="PreferencesMarker">Marcadores de campo</string>
+    <string name="PreferencesJoker">Coringa</string>
+    <string name="PreferencesSound">Efeitos de áudio</string>
+    <string name="PreferencesCountdown">Cronômetro (min)</string>
+    <string name="SolvedCurrent">desengajado</string>
+    <string name="SolvedTotal">ao todo</string>
+    <string name="StatisticsHeader">Estatística</string>
+    <string name="SolvedToday">Hoje</string>
+    <string name="SolvedDays10">em 10 dias</string>
+    <string name="SolvedDays30">em 30 dias</string>
+    <string name="StartNewGame">iniciar um novo jogo</string>
+    <string name="Congratulation">Parabéns</string>
+    <string name="Solution">Solução</string>
+    <string name="LanguageCode">pt</string>
+    <string name="ShareLink">Passe</string>
+    <string name="Language">Linguagem</string>
+    <string name="CarryOver">Dez transferências</string>
+</resources>

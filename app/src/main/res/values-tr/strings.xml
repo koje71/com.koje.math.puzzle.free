@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Seçenekler</string>
+    <string name="OperationsHeader">Işlem</string>
+    <string name="OperationsAddition">İlave</string>
+    <string name="OperationsSubtraction">Çıkarma</string>
+    <string name="OperationsMultiplication">Çarpma</string>
+    <string name="OperationsDivision">Bölüm</string>
+    <string name="GameVariant">Oyun Varyantı</string>
+    <string name="GameVariantStandart">Görevleri çözün</string>
+    <string name="GameVariantMixer">Blender</string>
+    <string name="GameVariantNumbers">Numaraları arayın</string>
+    <string name="GameVariantOperators">Operatör Bul</string>
+    <string name="PreferencesHeader">Ayarlar</string>
+    <string name="PreferencesMarker">Alan İşaretçileri</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Ses Efektleri</string>
+    <string name="PreferencesCountdown">Kronometre</string>
+    <string name="SolvedCurrent">Boşta</string>
+    <string name="SolvedTotal">Tamamen</string>
+    <string name="StatisticsHeader">İstatistik</string>
+    <string name="SolvedToday">Bugün</string>
+    <string name="SolvedDays10">- 10 günden beri</string>
+    <string name="SolvedDays30">- 30 gün boyunca</string>
+    <string name="StartNewGame">Yeni Oyun Başlat</string>
+    <string name="Congratulation">Tebrikler</string>
+    <string name="Solution">Çözünürlük</string>
+    <string name="LanguageCode">tr</string>
+    <string name="ShareLink">Geçmek</string>
+    <string name="Language">Dil</string>
+    <string name="CarryOver">On aktarma</string>
+</resources>

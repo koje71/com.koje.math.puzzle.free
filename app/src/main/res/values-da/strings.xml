@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Muligheder</string>
+    <string name="OperationsHeader">Operationer</string>
+    <string name="OperationsAddition">tilføjelse</string>
+    <string name="OperationsSubtraction">subtraktion</string>
+    <string name="OperationsMultiplication">multiplikation</string>
+    <string name="OperationsDivision">division</string>
+    <string name="GameVariant">Spilvariant</string>
+    <string name="GameVariantStandart">løse opgaver</string>
+    <string name="GameVariantMixer">mixer</string>
+    <string name="GameVariantNumbers">Find tal</string>
+    <string name="GameVariantOperators">Find operatører</string>
+    <string name="PreferencesHeader">Indstillinger</string>
+    <string name="PreferencesMarker">Marker felt</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Lydeffekter</string>
+    <string name="PreferencesCountdown">Stopur</string>
+    <string name="SolvedCurrent">opløst</string>
+    <string name="SolvedTotal">i alt</string>
+    <string name="StatisticsHeader">Statistikker</string>
+    <string name="SolvedToday">i dag</string>
+    <string name="SolvedDays10">i 10 dage</string>
+    <string name="SolvedDays30">i 30 dage</string>
+    <string name="StartNewGame">starte nyt spil</string>
+    <string name="Congratulation">Tillykke</string>
+    <string name="Solution">løsning</string>
+    <string name="LanguageCode">da</string>
+    <string name="ShareLink">Distribuere</string>
+    <string name="Language">Sprog</string>
+    <string name="CarryOver">Ti overførsel</string>
+</resources>

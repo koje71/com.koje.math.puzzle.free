@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">opcioj</string>
+    <string name="OperationsHeader">aritmetikaj operacioj</string>
+    <string name="OperationsAddition">aldono</string>
+    <string name="OperationsSubtraction">subtraho</string>
+    <string name="OperationsMultiplication">multipliko</string>
+    <string name="OperationsDivision">divido</string>
+    <string name="GameVariant">ludvariaĵo</string>
+    <string name="GameVariantStandart">solvi taskojn</string>
+    <string name="GameVariantMixer">miksita</string>
+    <string name="GameVariantNumbers">serĉnumeroj</string>
+    <string name="GameVariantOperators">serĉaj operatoroj</string>
+    <string name="PreferencesHeader">Agordoj</string>
+    <string name="PreferencesMarker">kampomarkoj</string>
+    <string name="PreferencesJoker">ŝercisto</string>
+    <string name="PreferencesSound">sonefektoj</string>
+    <string name="PreferencesCountdown">kronometro (min)</string>
+    <string name="SolvedCurrent">solvita</string>
+    <string name="SolvedTotal">entute</string>
+    <string name="StatisticsHeader">statistiko</string>
+    <string name="SolvedToday">hodiaŭ</string>
+    <string name="SolvedDays10">ekde 10 tagoj</string>
+    <string name="SolvedDays30">ekde 30 tagoj</string>
+    <string name="StartNewGame">nova ludo</string>
+    <string name="Congratulation">Gratulon</string>
+    <string name="Solution">Solvo</string>
+    <string name="LanguageCode">eo</string>
+    <string name="ShareLink">Distribui</string>
+    <string name="Language">Lingvo</string>
+    <string name="CarryOver">Dek transdono</string>
+</resources>

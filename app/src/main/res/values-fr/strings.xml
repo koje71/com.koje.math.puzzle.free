@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Options</string>
+    <string name="OperationsHeader">Opérations</string>
+    <string name="OperationsAddition">Addition</string>
+    <string name="OperationsSubtraction">Soustraction</string>
+    <string name="OperationsMultiplication">Multiplication</string>
+    <string name="OperationsDivision">Division</string>
+    <string name="GameVariant">Variante de jeu</string>
+    <string name="GameVariantStandart">Résolution de tâches</string>
+    <string name="GameVariantMixer">Mélanger</string>
+    <string name="GameVariantNumbers">Trouver des numéros</string>
+    <string name="GameVariantOperators">Trouver des opérateurs</string>
+    <string name="PreferencesHeader">Paramètres</string>
+    <string name="PreferencesMarker">Marqueurs de terrain</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Effets audio</string>
+    <string name="PreferencesCountdown">Chronomètre (Min)</string>
+    <string name="SolvedCurrent">dégagé</string>
+    <string name="SolvedTotal">complet</string>
+    <string name="StatisticsHeader">Statistiques</string>
+    <string name="SolvedToday">Aujourd’hui</string>
+    <string name="SolvedDays10">pendant 10 jours</string>
+    <string name="SolvedDays30">pendant 30 jours</string>
+    <string name="StartNewGame">Nouveau jeu</string>
+    <string name="Congratulation">Félicitations</string>
+    <string name="Solution">Solution</string>
+    <string name="LanguageCode">fr</string>
+    <string name="ShareLink">Distribuer</string>
+    <string name="Language">Langue</string>
+    <string name="CarryOver">Dix reports</string>
+</resources>

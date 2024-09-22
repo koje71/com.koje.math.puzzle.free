@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Сонголтууд</string>
+    <string name="OperationsHeader">Үйл ажиллагаа</string>
+    <string name="OperationsAddition">Нэмэлт</string>
+    <string name="OperationsSubtraction">Хасах</string>
+    <string name="OperationsMultiplication">Олон талт байдал</string>
+    <string name="OperationsDivision">Хэсэг</string>
+    <string name="GameVariant">Тоглоомын хувьсагч</string>
+    <string name="GameVariantStandart">Үүрэг даалгаварыг шийдвэрлэх</string>
+    <string name="GameVariantMixer">Блендер</string>
+    <string name="GameVariantNumbers">Тоо хайх</string>
+    <string name="GameVariantOperators">Операторуудыг олох</string>
+    <string name="PreferencesHeader">Тохиргоо</string>
+    <string name="PreferencesMarker">Талбайн маркерууд</string>
+    <string name="PreferencesJoker">Жокер</string>
+    <string name="PreferencesSound">Аудио эффект</string>
+    <string name="PreferencesCountdown">Цагирг</string>
+    <string name="SolvedCurrent">салсан</string>
+    <string name="SolvedTotal">тэр чигээрээ</string>
+    <string name="StatisticsHeader">Статистик мэдээлэл</string>
+    <string name="SolvedToday">өнөөдөр</string>
+    <string name="SolvedDays10">10 хоногоос хойш</string>
+    <string name="SolvedDays30">30 хоногоос хойш</string>
+    <string name="StartNewGame">Шинэ тоглоом эхлэх</string>
+    <string name="Congratulation">Баяр хүргэе</string>
+    <string name="Solution">Шийдэл</string>
+    <string name="LanguageCode">mn</string>
+    <string name="ShareLink">Пасс</string>
+    <string name="Language">Хэл</string>
+    <string name="CarryOver">Арван дамжуулалт</string>
+</resources>

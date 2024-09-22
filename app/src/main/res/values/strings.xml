@@ -1,0 +1,48 @@
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Settings</string>
+    <string name="OperationsHeader">Operations</string>
+    <string name="OperationsAddition">Addition</string>
+    <string name="OperationsSubtraction">Subtraction</string>
+    <string name="OperationsMultiplication">Multiplication</string>
+    <string name="OperationsDivision">Division</string>
+    <string name="GameVariant">Game Variant</string>
+    <string name="GameVariantStandart">Standard</string>
+    <string name="GameVariantMixer">Mixer</string>
+    <string name="GameVariantNumbers">Number Puzzle</string>
+    <string name="GameVariantOperators">Operators Puzzle</string>
+    <string name="PreferencesHeader">Preferences</string>
+    <string name="PreferencesMarker">Marker</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Sound Effects</string>
+    <string name="PreferencesCountdown">Countdown (min)</string>
+    <string name="SolvedCurrent">solved</string>
+    <string name="SolvedTotal">total</string>
+    <string name="StatisticsHeader">Statistics</string>
+    <string name="SolvedToday">today</string>
+    <string name="SolvedDays10">last 10 days</string>
+    <string name="SolvedDays30">last 30 Days</string>
+    <string name="StartNewGame">start new game</string>
+    <string name="Congratulation">Congratulation</string>
+    <string name="Solution">Solution</string>
+    <string name="LanguageCode">en</string>
+    <string name="ShareLink">Share</string>
+    <string name="Language">Language</string>
+    <string name="CarryOver">Carry Over</string>
+    <string name="Number1" translatable="false">1</string>
+    <string name="Number2" translatable="false">2</string>
+    <string name="Number3" translatable="false">3</string>
+    <string name="Number4" translatable="false">4</string>
+    <string name="Number5" translatable="false">5</string>
+    <string name="Number6" translatable="false">6</string>
+    <string name="Number7" translatable="false">7</string>
+    <string name="Number8" translatable="false">8</string>
+    <string name="Number9" translatable="false">9</string>
+    <string name="Number10" translatable="false">10</string>
+    <string name="Number20" translatable="false">20</string>
+    <string name="Number30" translatable="false">30</string>
+    <string name="Number50" translatable="false">50</string>
+    <string name="Number100" translatable="false">100</string>
+    <string name="Over10" translatable="false">>10</string>
+    <string name="Over100" translatable="false">>100</string>
+</resources>

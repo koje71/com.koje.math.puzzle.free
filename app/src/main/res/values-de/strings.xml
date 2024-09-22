@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Optionen</string>
+    <string name="OperationsHeader">Rechenarten</string>
+    <string name="OperationsAddition">Addition</string>
+    <string name="OperationsSubtraction">Subtraktion</string>
+    <string name="OperationsMultiplication">Multiplikation</string>
+    <string name="OperationsDivision">Division</string>
+    <string name="GameVariant">Spiel Variante</string>
+    <string name="GameVariantStandart">Aufgaben lösen</string>
+    <string name="GameVariantMixer">Mixer</string>
+    <string name="GameVariantNumbers">Zahlen suchen</string>
+    <string name="GameVariantOperators">Operatoren suchen</string>
+    <string name="PreferencesHeader">Einstellungen</string>
+    <string name="PreferencesMarker">Feld Markierungen</string>
+    <string name="PreferencesJoker">Joker</string>
+    <string name="PreferencesSound">Audio Effekte</string>
+    <string name="PreferencesCountdown">Stoppuhr (Min)</string>
+    <string name="SolvedCurrent">gelöst</string>
+    <string name="SolvedTotal">insgesamt</string>
+    <string name="StatisticsHeader">Statistik</string>
+    <string name="SolvedToday">heute</string>
+    <string name="SolvedDays10">seit 10 Tagen</string>
+    <string name="SolvedDays30">seit 30 Tagen</string>
+    <string name="StartNewGame">Neues Spiel</string>
+    <string name="Congratulation">Glückwunsch</string>
+    <string name="Solution">Lösung</string>
+    <string name="LanguageCode">de</string>
+    <string name="ShareLink">Teilen</string>
+    <string name="Language">Sprache</string>
+    <string name="CarryOver">mit Zehnerübertrag</string>
+</resources>

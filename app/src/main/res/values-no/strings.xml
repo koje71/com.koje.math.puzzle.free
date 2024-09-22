@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">Innstillinger</string>
+    <string name="OperationsHeader">Beregningsoperasjoner</string>
+    <string name="OperationsAddition">addisjon</string>
+    <string name="OperationsSubtraction">subtraksjon</string>
+    <string name="OperationsMultiplication">multiplikasjon</string>
+    <string name="OperationsDivision">inndeling</string>
+    <string name="GameVariant">Spillvariant</string>
+    <string name="GameVariantStandart">løse oppgaver</string>
+    <string name="GameVariantMixer">mikser</string>
+    <string name="GameVariantNumbers">Finn tall</string>
+    <string name="GameVariantOperators">Finn operatører</string>
+    <string name="PreferencesHeader">konfigurasjon</string>
+    <string name="PreferencesMarker">Merker felt</string>
+    <string name="PreferencesJoker">joker</string>
+    <string name="PreferencesSound">Lydeffekter</string>
+    <string name="PreferencesCountdown">stoppeklokke</string>
+    <string name="SolvedCurrent">oppløst</string>
+    <string name="SolvedTotal">totalt</string>
+    <string name="StatisticsHeader">statistikk</string>
+    <string name="SolvedToday">i dag</string>
+    <string name="SolvedDays10">i 10 dager</string>
+    <string name="SolvedDays30">i 30 dager</string>
+    <string name="StartNewGame">starte nytt spill</string>
+    <string name="Congratulation">Gratulerer</string>
+    <string name="Solution">Vedtak</string>
+    <string name="LanguageCode">no</string>
+    <string name="ShareLink">Omfordele</string>
+    <string name="Language">Språk</string>
+    <string name="CarryOver">Ti overføringer</string>
+</resources>

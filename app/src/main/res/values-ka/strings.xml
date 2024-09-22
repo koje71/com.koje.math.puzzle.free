@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">პარამეტრები</string>
+    <string name="OperationsHeader">გაანგარიშების ოპერაციები</string>
+    <string name="OperationsAddition">დამატება</string>
+    <string name="OperationsSubtraction">გამოკლება</string>
+    <string name="OperationsMultiplication">გამრავლება</string>
+    <string name="OperationsDivision">დაყოფა</string>
+    <string name="GameVariant">თამაშის ვარიანტი</string>
+    <string name="GameVariantStandart">ამოცანების ამოხსნა</string>
+    <string name="GameVariantMixer">მიქსერი</string>
+    <string name="GameVariantNumbers">იპოვნეთ ნომრები</string>
+    <string name="GameVariantOperators">იპოვნეთ ოპერატორები</string>
+    <string name="PreferencesHeader">პარამეტრები</string>
+    <string name="PreferencesMarker">ნიშნების ველი</string>
+    <string name="PreferencesJoker">ჯოკერი</string>
+    <string name="PreferencesSound">აუდიო ეფექტები</string>
+    <string name="PreferencesCountdown">წამზომი</string>
+    <string name="SolvedCurrent">მოგვარებული</string>
+    <string name="SolvedTotal">მთლიანობაში</string>
+    <string name="StatisticsHeader">სტატისტიკა</string>
+    <string name="SolvedToday">დღეს</string>
+    <string name="SolvedDays10">- 10 დღის განმავლობაში</string>
+    <string name="SolvedDays30">- 30 დღის განმავლობაში</string>
+    <string name="StartNewGame">ახალი თამაში</string>
+    <string name="Congratulation">გილოცავ</string>
+    <string name="Solution">რეზოლუცია</string>
+    <string name="LanguageCode">ka</string>
+    <string name="ShareLink">გაავრცელეთ</string>
+    <string name="Language">ენა</string>
+    <string name="CarryOver">ათი გადატანა</string>
+</resources>

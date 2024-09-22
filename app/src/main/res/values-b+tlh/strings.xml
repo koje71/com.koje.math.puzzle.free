@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Matzzl</string>
+    <string name="SettingsTitle">\'ovelya</string>
+    <string name="OperationsHeader">ropyaH</string>
+    <string name="OperationsAddition">nen</string>
+    <string name="OperationsSubtraction">ghom</string>
+    <string name="OperationsMultiplication">poS</string>
+    <string name="OperationsDivision">veqlargh</string>
+    <string name="GameVariant">ghIlghameS</string>
+    <string name="GameVariantStandart">vangbe\'</string>
+    <string name="GameVariantMixer">chom</string>
+    <string name="GameVariantNumbers">SuvwI\'</string>
+    <string name="GameVariantOperators">latlh</string>
+    <string name="PreferencesHeader">\'aw\'</string>
+    <string name="PreferencesMarker">marqem</string>
+    <string name="PreferencesJoker">QI\'yaH</string>
+    <string name="PreferencesSound">yaS</string>
+    <string name="PreferencesCountdown">bIQ\'a\'</string>
+    <string name="SolvedCurrent">ngaQ</string>
+    <string name="SolvedTotal">DuQ</string>
+    <string name="StatisticsHeader">yo\'</string>
+    <string name="SolvedToday">DaHjaj</string>
+    <string name="SolvedDays10">mInDu\'</string>
+    <string name="SolvedDays30">Qu\'vatlh ngeb</string>
+    <string name="StartNewGame">qa\'vaQ</string>
+    <string name="Congratulation">ghoch</string>
+    <string name="Solution">taS</string>
+    <string name="LanguageCode">tlh</string>
+    <string name="ShareLink">juS</string>
+    <string name="Language">Hol</string>
+    <string name="CarryOver">-</string>
+</resources>
